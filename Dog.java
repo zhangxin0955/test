@@ -8,13 +8,13 @@ public class Dog {
 
 	public void brak(int times) {
 		
-
+public void brak(int times)
 		
 
 
 
 
 System.out.println("狗叫：" + times + "声！");
-System.out.println("狗叫：" + times + "声！");
+
 	}
 }
