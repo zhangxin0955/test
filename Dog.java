@@ -14,5 +14,7 @@ public class Dog {
 
 
 System.out.println("狗叫：" + times + "声！");
+System.out.println("狗叫：" + times + "声！");
+System.out.println("狗叫：" + times + "声！");
 	}
 }
