@@ -8,7 +8,7 @@ public class Dog {
 
 	public void brak(int times) {
 		
-
+public void brak(int times)
 		
 
 
